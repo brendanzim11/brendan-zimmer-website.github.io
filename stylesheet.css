@@ -1,0 +1,58 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #000000;
+	text-align: center;}
+body {
+	width: 960px;
+	margin: 0 auto;
+	border: groove;
+}
+nav {
+	background-color: #EE4343;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin: 10px;
+}
+.artedit {
+	background-color: #EE4343;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+.mart {
+	background-color: #EE4343;
+}
+.mart2 {
+	background-color: #EE4343;
+	padding: 10px;
+	margin: 10px;
+	width: 400px;
+	float: left;
+}
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #EE4343;
+	text-align: center;
+}
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
